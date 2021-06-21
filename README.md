@@ -28,4 +28,4 @@ THEN I am able to successfully create, update, and delete data in my database<br
 
 E-Commerce site: https://github.com/marksmoore/E-Commerce-Backend
 
-E-Commerce wallkthough video : <img src= "https://github.com/marksmoore/E-Commerce-Backend/E-Commerce-Backend.mp4">
+E-Commerce wallkthough video : https://github.com/marksmoore/E-Commerce-Backend/E-Commerce-Backend.mp4
